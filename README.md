@@ -1,2 +1,3 @@
 # homework1
-first hw
+
+This is the first weeks assignment.
